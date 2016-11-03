@@ -1,0 +1,14 @@
+{
+    "name": "nemanjan00/framework",
+    "description": "PHP Framework",
+    "type": "package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nemanja Nedeljković",
+            "email": "nemanjan00@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

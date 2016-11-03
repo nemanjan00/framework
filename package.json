@@ -1,0 +1,11 @@
+{
+  "name": "framework",
+  "version": "1.0.0",
+  "description": "PHP Framework",
+  "main": "index.js",
+  "scripts": {
+    "webpack": "webpack --progress --colors --watch"
+  },
+  "author": "Nemanja Nedeljković <nemanjan00@gmail.com> (https://nemanja.top/)",
+  "license": "MIT"
+}
