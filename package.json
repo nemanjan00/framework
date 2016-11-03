@@ -9,7 +9,11 @@
   "author": "Nemanja Nedeljković <nemanjan00@gmail.com> (https://nemanja.top/)",
   "license": "MIT",
   "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "css-loader": "^0.25.0",
     "file-loader": "^0.9.0",
+    "jquery": "^3.1.1",
+    "style-loader": "^0.13.1",
     "webpack": "^1.13.3",
     "webpack-livereload-plugin": "^0.9.0"
   }

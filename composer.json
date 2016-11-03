@@ -10,5 +10,8 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "klein/klein": "^2.1",
+        "usmanhalalit/pixie": "2.*@dev"
+    }
 }
