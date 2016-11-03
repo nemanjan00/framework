@@ -12,3 +12,7 @@
 
 /vendor
 
+# NPM Log
+
+npm-debug.log
+
